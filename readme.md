@@ -1,15 +1,15 @@
-Build your first LangGraph Agent
+## Build your first LangGraph Agent
 
 A small Math assisstant agent  to perform arithmetic operation.
 
-What it can do:
+#### What it can do:
 - Understand questions like "What is 1200 divided by 4, minus 50 and multiplied by 20"
 - Call real Python function (tools) to do arithmetic
 - remembers earlier messages in the conversations
 - Prints each step it takes so you can watch it think
 
 
-Library:
+#### Library:
 - Python 3.14 or higher version
 - LangGraph (graph engine + ready made helpers liek ToolNode)
 - LangChain (init_chat_model to create chat model)
