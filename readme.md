@@ -19,7 +19,7 @@ A small Math assisstant agent  to perform arithmetic operation.
 
 
 #### Clone the project
-git clone https://github.com/abhaybharti/simple-langgraph-agent.git
+git clone https://github.com/abhaybharti/Math-Assistant-langgraph-agent.git
 
 #### Create a Virutal env
 python3 -m venv .venv
